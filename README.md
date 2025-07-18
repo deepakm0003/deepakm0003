@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deepak Meena
+# 👋 Hi, I’m Deepak Meena
 - 👀 I’m interested in Web Applications and Coding.
 - 🌱 I’m currently learning DSA and React, Mern, 
 - 💞️ I’m looking to collaborate on Something New
