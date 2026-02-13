@@ -4,14 +4,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;AI+Systems+Developer;Open+Source+Contributor;Distributed+Systems+Enthusiast;Building+Scalable+Applications" />
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=header"/>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deepakm0003&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
----
 
-## 🚀 About Me
+## About Me
 
 - 🎓 B.Tech @ **IIIT Delhi**
 - 💻 Focused on **Backend Engineering & Distributed Systems**
@@ -41,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepakm0003&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -79,4 +80,8 @@
 
 ---
 
+
 <h3 align="center">⚡ Building Scalable Systems | Writing Clean Code | Shipping Impact ⚡</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=120&section=footer"/>
+</p>
