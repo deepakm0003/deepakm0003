@@ -45,7 +45,6 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakm0003&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakm0003&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
@@ -55,14 +54,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakm0003&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepakm0003&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
